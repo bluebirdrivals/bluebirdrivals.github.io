@@ -29,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+discord_username: bluebirdrivals
+facebook_username: bluebirdrivals
 twitter_username: bluebirdrivals
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username: bluebirdrivals
+youtube_username: bluebirdrivals
+twitch_username: bluebirdrivals
 
 
 # Posts Settings
