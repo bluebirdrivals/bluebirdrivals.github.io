@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: BlueBird Rivals
+title: BlueBird Rivals | For the love for esports
+description: We're an Australian based esport tournament organiser, providing some of oceania's best Rocket League events.
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: bluebirdrivals@hotmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
