@@ -161,8 +161,8 @@ collections:
       - label: "Bio"
         name: "bio"
         widget: "text"
-      - label: "GitHub Username"
-        name: "github_username"
+      - label: "Discord Server"
+        name: "discord_server"
         widget: "string"
         required: false
       - label: "Facebook Username"
@@ -177,12 +177,12 @@ collections:
         name: "instagram_username"
         widget: "string"
         required: false
-      - label: "LinkedIn Username"
-        name: "linkedin_username"
+      - label: "YouTube Username"
+        name: "youtube_username"
         widget: "string"
         required: false
-      - label: "Medium Username"
-        name: "medium_username"
+      - label: "Twitch Username"
+        name: "twitch_username"
         widget: "string"
         required: false
   - label: "Settings"
@@ -247,8 +247,8 @@ collections:
         name: "social"
         file: "src/yml/social.yml"
         fields:
-          - label: "GitHub Username"
-            name: "github_username"
+          - label: "Discord Server"
+            name: "discord_server"
             widget: "string"
             required: false
           - label: "Facebook Username"
@@ -263,12 +263,12 @@ collections:
             name: "instagram_username"
             widget: "string"
             required: false
-          - label: "LinkedIn Username"
-            name: "linkedin_username"
+          - label: "YouTube Username"
+            name: "youtube_username"
             widget: "string"
             required: false
-          - label: "Medium Username"
-            name: "medium_username"
+          - label: "Twitch Username"
+            name: "twitch_username"
             widget: "string"
             required: false
       - label: "Theme"
