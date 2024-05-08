@@ -28,7 +28,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-discord_username: bluebirdrivals
+discord_server: bluebirdrivals
 facebook_username: bluebirdrivals
 twitter_username: bluebirdrivals
 instagram_username: bluebirdrivals
