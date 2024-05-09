@@ -24,7 +24,38 @@ permalink: /past-events/
 | 2020 | | | |
 | 2019 | | | |
 | 2018 | | | |
+| Nordic Gaming - Asgard Season 0 - Week 8 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 7 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 6 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 5 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 4 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 3 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 2 | Rocket League | Unknown |   |
+| Nordic Gaming - Asgard Season 0 - Week 1 | Rocket League | Unknown |   |
+| Nordic Gaming - Viking Shield 24 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 23 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 22 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Raid 07 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 21 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 20 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 19 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Raid 06 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 18 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 17 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 16 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Raid 05 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 15 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 14 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 13 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 12 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 4 | R6 Siege | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 11 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 3 | R6 Siege | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 10 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 2 | R6 Siege | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Raid 04 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | Nordic Gaming - Viking Shield 1 | R6 Siege | NA (NA - NA - NA) |  [Bracket]() |
+| Nordic Gaming - Viking Shield 9 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | Nordic Gaming - Mead Hall 01  | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | Nordic Gaming - Viking Shield 8 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | Nordic Gaming - Viking Raid 03 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
