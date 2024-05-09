@@ -16,6 +16,7 @@ permalink: /past-events/
     </tr>
   </thead>
   <tbody>
+
   <tr>
       <td>
 
@@ -32,7 +33,7 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/bbr253)
+ [Bracket](https://www.start.gg/bbr253)
 
 </td>
   </tr>
@@ -44,17 +45,20 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/tournament/bluebird-rivals-2024-pop-up-cup)
+ [Bracket](https://www.start.gg/tournament/bluebird-rivals-2024-pop-up-cup)
 
 </td>
   </tr>
+
   <tr>
       <td>
 
 2023
 
       <td>
+
   </tr>
+
   <tr>
       <td>BlueBird Rivals 252 - 3v3 Elite Match (Rocket League)</td>
       <td>
@@ -74,7 +78,7 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/bbr252)
+ [Bracket](https://www.start.gg/bbr252)
 
 </td>
   </tr>
@@ -86,19 +90,7 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/bbr252)
-
-</td>
-  </tr>
-  <tr>
-      <td>BlueBird Rivals 252 (Rocket League)</td>
-      <td>
-	Tsurani
-	(Pagsi - Finn - Fades)
-      </td>
-      <td>
-
-[Bracket](https://www.start.gg/bbr252)
+ [Bracket](https://www.start.gg/bbr252)
 
 </td>
   </tr>
@@ -110,7 +102,7 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/bbr251)
+ [Bracket](https://www.start.gg/bbr251)
 
 </td>
   </tr>
@@ -122,7 +114,7 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/bbr250)
+ [Bracket](https://www.start.gg/bbr250)
 
 </td>
   </tr>
@@ -135,7 +127,7 @@ permalink: /past-events/
       </td>
       <td>
 
-[Bracket](https://www.start.gg/tournament/bluebird-rivals-2023-pop-up-cup)
+ [Bracket](https://www.start.gg/tournament/bluebird-rivals-2023-pop-up-cup)
 
 </td>
   </tr>
