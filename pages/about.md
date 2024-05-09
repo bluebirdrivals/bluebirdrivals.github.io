@@ -9,9 +9,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.jpg" width="200">
 
-# About
-
-# FOR THE LOVE OF ESPORTS
+# AND STILL COUNTING FOR THE LOVE OF ESPORTS
 Established in 2017 as Nordic Gaming, BlueBird Rivals has always been passionate about delivering the best grassroot events and developing a new generation of talent and players in the Oceanic scene.
 
 # OUR ORIGINS
