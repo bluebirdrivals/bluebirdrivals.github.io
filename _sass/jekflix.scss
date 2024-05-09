@@ -1,1 +1,6 @@
 @import "main";
+
+iframe[src*="youtube"] {
+  aspect-ratio: 16/8.5;
+  height: fit-content;
+}
