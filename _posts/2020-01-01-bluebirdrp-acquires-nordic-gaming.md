@@ -7,9 +7,9 @@ description: >-
   HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming 
 
 image: >-
-  /assets/postimg/Twitter_Banner.png
+  /assets/postimg/1banner_bbrp_acquires_nordic.png
 optimized_image: >-
-  /assets/postimg/Twitter_Banner.png
+  /assets/postimg/1banner_bbrp_acquires_nordic.png
 category: news
 tags:
   - rocket-league
@@ -37,7 +37,10 @@ TDLR;
 Nordic Gaming is now BlueBird Rivals, weekly events starting up soon, details on BlueBird Rivals Circuit and TFT events coming soon.
 
 Our Social Media Channels
+
 Twitter: [https://twitter.com/BlueBirdRivals](https://twitter.com/BlueBirdRivals)
-Twitch: https://www.twitch.tv/bluebirdrivals](https://www.twitch.tv/bluebirdrivals)
-Discord: https://discord.gg/TmnP7K5](https://discord.gg/TmnP7K5)
+
+Twitch: [https://www.twitch.tv/bluebirdrivals](https://www.twitch.tv/bluebirdrivals)
+
+Discord: [https://discord.gg/bluebirdrivals](https://discord.gg/bluebirdrivals)
 

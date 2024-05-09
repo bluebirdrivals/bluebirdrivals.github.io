@@ -7,9 +7,9 @@ description: >-
   We can't believe that it has been over 6 years since BlueBird Rivals started as Nordic Gaming and to celebrate, we're throwing on a party this October 1st with three jam packed matches, where it is winner takes all for each match... 
 
 image: >-
-  https://i.ibb.co/rwkkwQt/252-Stat.png
+    /assets/postimg/1banner_bbr_251.png
 optimized_image: >-
-  https://i.ibb.co/rwkkwQt/252-Stat.png
+    /assets/postimg/1banner_bbr_251.png
 category: news
 tags:
   - rocket-league
