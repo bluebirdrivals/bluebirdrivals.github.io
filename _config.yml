@@ -16,7 +16,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
+  - title: News
     url: /feed.xml
 email: bluebirdrivals@hotmail.com
 # See: https://disqus.com/
