@@ -20,7 +20,7 @@ paginate: true
 ---
 What an event BlueBird Rivals 250 was, especially with that epic grand final between Merge Esports and our winners Tsurani. But that's in the past and we need to talk about our upcoming winner takes all event, BlueBird Rivals 251.
 
-# _**Event Details**_
+# Event Details
 
 When: Saturday 17th of June @ 6pm AEST
 
