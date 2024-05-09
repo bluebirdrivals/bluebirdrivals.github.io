@@ -42,13 +42,13 @@ Sign Ups are OPEN: https://www.start.gg/BBR251
 
 
 # BlueBird Rivals 251 and 252 will now be streamed on YouTube
-[!(https://img.youtube.com/vi/BgBKByGIfhA/0.jpg)](https://www.youtube.com/watch?v=BgBKByGIfhA)
+[![BlueBird Rivals 251 - 3v3 OCE Rocket League](https://img.youtube.com/vi/BgBKByGIfhA/0.jpg)](https://www.youtube.com/watch?v=BgBKByGIfhA)
 
 For the next 2 events, we will be streaming to YouTube instead of Twitch. We won't go into specifics as to why we're doing this. But if this does end up working out, we may stream our esports related events to other platforms that isn't Twitch (unless if they change their rules on Simulcasting). This will also give everybody an opportunity to check out the shorts and normal video content that we will putting out around our events. 
 
 Now we're no strangers to YouTube, as when we started up as Nordic Gaming back in 2017, we would use YouTube to stream individual matches for our test ladder. Here's a clip of Jimi (Le Mon) getting his first goal in a BlueBird Rivals/Nordic Gaming event in the first ever stream of ours.
 
-[!(https://img.youtube.com/vi/FXTa6XaJQ6M/0.jpg)](https://www.youtube.com/watch?v=FXTa6XaJQ6M)
+[![Nordic Ladder challenge - Extricity vs. Team Tahit 2v2](https://img.youtube.com/vi/FXTa6XaJQ6M/0.jpg)](https://www.youtube.com/watch?v=FXTa6XaJQ6M)
 
 You can subscribe to YouTube channel here https://www.youtube.com/@BlueBirdRivals and we will see you on the field or on the YouTube stream, next week. 
 
