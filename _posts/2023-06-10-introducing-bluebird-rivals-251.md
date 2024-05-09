@@ -10,7 +10,7 @@ image: >-
   https://i.ibb.co/m5XRVyB/251-start.png
 optimized_image: >-
   https://i.ibb.co/m5XRVyB/251-start.png
-category: blog
+category: news
 tags:
   - rocket-league
   - event
