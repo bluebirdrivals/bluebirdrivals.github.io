@@ -1,7 +1,7 @@
 ---
 layout: category
 title: News
-slug: news
+slug: News
 description: A category for news posts.
 ---
 
