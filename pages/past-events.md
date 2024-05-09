@@ -31,6 +31,6 @@ permalink: /past-events/
 | Nordic Gaming - Viking Shield 1 (Rocket League) | NA (NA - NA - NA) |  [Bracket]() |
 | Nordic Gaming - Viking Raid 01 (Rocket League) | NA (NA - NA - NA) |  [Bracket]() |
 | 2017 | | |
-| Nordic Gaming - Alpha Testing (Rocket League) | N/A | [N/A]() |
-| Nordic Gaming - Pizza Challenge 2 (Rocket League) | N/A | [N/A]() |
-| Nordic Gaming - Pizza Challenge 1 (Rocket League) | N/A | [N/A]() |
+| Nordic Gaming - Alpha Testing (Rocket League) | N/A |  |
+| Nordic Gaming - Pizza Challenge 2 (Rocket League) | N/A |  |
+| Nordic Gaming - Pizza Challenge 1 (Rocket League) | N/A |  |
