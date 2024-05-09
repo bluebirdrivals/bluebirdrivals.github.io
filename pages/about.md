@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: '2020-02-27 01:53:59'
 title: About
-description: Some description.
+description: Established in 2017 as Nordic Gaming, BlueBird Rivals has always been passionate about delivering the best grassroot events and developing a new generation of talent and players in the Oceanic scene.
 permalink: /about/
 ---
 
