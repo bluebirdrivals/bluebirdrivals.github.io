@@ -12,8 +12,6 @@ optimized_image: >-
   /assets/postimg/1banner_bbrp_acquires_nordic.png
 category: news
 tags:
-  - rocket-league
-  - event
   - press-annoucement
 author: BBR Admin
 paginate: true
