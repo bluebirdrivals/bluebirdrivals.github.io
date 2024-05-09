@@ -35,7 +35,8 @@ _**Open Qualifier Details**_
 Format:
 - Group Stage to Single Elimination Qualifier
 - Top 2 to advance to the Grand Final match on the 1st of October
-Sign Ups for the open event qualifiers will open at a later date...
+
+*Sign Ups for the open event qualifiers will open at a later date...*
 
 ## Elite 1v1 Match (BO5)
 Sunday 1st of October @ 8:15pm AEDT
@@ -48,7 +49,7 @@ Teams to be announced BlueBird Rivals Social Media...
 Prize: 1st - $300 AUD
 
 
-#### *THIS TOURNAMENT IS IN NO WAY SPONSORED, ENDORSED, OR ADMINISTERED BY, OR OTHERWISE ASSOCIATED WITH, PSYONIX LLC. THE INFORMATION PLAYERS PROVIDE IN CONNECTION WITH THIS TOURNAMENT IS BEING PROVIDED TO TOURNAMENT ORGANIZER AND NOT TO PSYONIX LLC.*
+> *THIS TOURNAMENT IS IN NO WAY SPONSORED, ENDORSED, OR ADMINISTERED BY, OR OTHERWISE ASSOCIATED WITH, PSYONIX LLC. THE INFORMATION PLAYERS PROVIDE IN CONNECTION WITH THIS TOURNAMENT IS BEING PROVIDED TO TOURNAMENT ORGANIZER AND NOT TO PSYONIX LLC.*
 
 
 So get those party hats on and we'll see you either on the field or in chat...
