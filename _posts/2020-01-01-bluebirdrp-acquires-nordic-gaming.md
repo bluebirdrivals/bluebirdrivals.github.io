@@ -7,9 +7,9 @@ description: >-
   HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming 
 
 image: >-
-  /assests/postimg/Twitter_Banner.png
+  /assets/postimg/Twitter_Banner.png
 optimized_image: >-
-  /assests/postimg/Twitter_Banner.png
+  /assets/postimg/Twitter_Banner.png
 category: news
 tags:
   - rocket-league
