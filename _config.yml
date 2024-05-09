@@ -12,12 +12,13 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: News
+    url: /category/news/
   - title: About
     url: /about
   - title: Contact
     url: /contact
-  - title: News
-    url: /category/news/
+
 email: bluebirdrivals@hotmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
