@@ -17,8 +17,12 @@ permalink: /past-events/
   </thead>
   <tbody>
   <tr>
-      <td>2024</td>
       <td>
+
+2024
+
+</td>
+
   </tr>
   <tr>
       <td>BlueBird Rivals 253 (Rocket League)</td>
@@ -26,18 +30,29 @@ permalink: /past-events/
 	look at my fries
 	(jimmo - Prompt - Inspire)
       </td>
-      <td>[Bracket](https://www.start.gg/bbr253)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr253)
+
+</td>
   </tr>
   <tr>
-      <td>BlueBird Rivals| 2024 Pop-Up Cup (Rocket League)</td>
+      <td>BlueBird Rivals | 2024 Pop-Up Cup (Rocket League)</td>
       <td>
 	Bandits ESC
 	(Daisu - Bathtub - Fiasco)
       </td>
-      <td>[Bracket](https://www.start.gg/tournament/bluebird-rivals-2024-pop-up-cup)</td>
+      <td>
+
+[Bracket](https://www.start.gg/tournament/bluebird-rivals-2024-pop-up-cup)
+
+</td>
   </tr>
   <tr>
-      <td>2023</td>
+      <td>
+
+2023
+
       <td>
   </tr>
   <tr>
@@ -46,14 +61,22 @@ permalink: /past-events/
 	PWR
 	(Torsos - Fever - bananahead)
       </td>
-      <td>[Bracket](https://www.start.gg/bbr252)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr252)
+
+</td>
   </tr>
   <tr>
       <td>BlueBird Rivals 252 - 1v1 Elite Match (Rocket League)</td>
       <td>
 	Outlast
       </td>
-      <td>[Bracket](https://www.start.gg/bbr252)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr252)
+
+</td>
   </tr>
   <tr>
       <td>BlueBird Rivals 252 - Open Event (Rocket League)</td>
@@ -61,7 +84,11 @@ permalink: /past-events/
 	benchpress
 	(Crazy - Joshuadx7 - Ohwy - Akame)
       </td>
-      <td>[Bracket](https://www.start.gg/bbr252)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr252)
+
+</td>
   </tr>
   <tr>
       <td>BlueBird Rivals 252 (Rocket League)</td>
@@ -69,7 +96,11 @@ permalink: /past-events/
 	Tsurani
 	(Pagsi - Finn - Fades)
       </td>
-      <td>[Bracket](https://www.start.gg/bbr252)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr252)
+
+</td>
   </tr>
   <tr>
       <td>BlueBird Rivals 251 (Rocket League)</td>
@@ -77,7 +108,11 @@ permalink: /past-events/
 	Lovelyyyyy
 	(Mith - Cobbo - Fades)
       </td>
-      <td>[Bracket](https://www.start.gg/bbr251)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr251)
+
+</td>
   </tr>
   <tr>
       <td>BlueBird Rivals 250 (Rocket League)</td>
@@ -85,16 +120,24 @@ permalink: /past-events/
 	Tsurani
 	(Pagsi - Finn - Fades)
       </td>
-      <td>[Bracket](https://www.start.gg/bbr250)</td>
+      <td>
+
+[Bracket](https://www.start.gg/bbr250)
+
+</td>
   </tr>
   </tbody>
   <tr>
-      <td>BlueBird Rivals| 2023 Pop-Up Cup (Rocket League)</td>
+      <td>BlueBird Rivals | 2023 Pop-Up Cup (Rocket League)</td>
       <td>
 	random
 	(mith - Negative - Baz)
       </td>
-      <td>[Bracket](https://www.start.gg/tournament/bluebird-rivals-2023-pop-up-cup)</td>
+      <td>
+
+[Bracket](https://www.start.gg/tournament/bluebird-rivals-2023-pop-up-cup)
+
+</td>
   </tr>
   </tbody>
 </table>
