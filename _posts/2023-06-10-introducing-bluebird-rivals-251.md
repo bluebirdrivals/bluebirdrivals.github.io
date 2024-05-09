@@ -7,9 +7,9 @@ description: >-
   WINNER TAKES ALL $150 AUD... 
 
 image: >-
-  https://i.ibb.co/rwkkwQt/252-Stat.png
+  https://i.ibb.co/m5XRVyB/251-start.png
 optimized_image: >-
-  https://i.ibb.co/rwkkwQt/252-Stat.png
+  https://i.ibb.co/m5XRVyB/251-start.png
 category: blog
 tags:
   - rocket-league
