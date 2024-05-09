@@ -7,14 +7,14 @@ description: >-
   THE ALL NEW WEEKLY EVENT SERIES 
 
 image: >-
-    /assets/postimg/1banner_bbr_252.png
+    /assets/postimg/1banner_weeklybashs1.png
 optimized_image: >-
-    /assets/postimg/1banner_bbr_252.png
+    /assets/postimg/1banner_weeklybashs1.png
 category: news
 tags:
   - rocket-league
   - event
-  - press-annoucement
+  - press-release
 author: BBR Admin
 paginate: true
 ---

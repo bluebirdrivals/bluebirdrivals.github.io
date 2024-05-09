@@ -14,7 +14,7 @@ category: news
 tags:
   - rocket-league
   - event
-  - press-annoucement
+  - press-release
 author: BBR Admin
 paginate: true
 ---

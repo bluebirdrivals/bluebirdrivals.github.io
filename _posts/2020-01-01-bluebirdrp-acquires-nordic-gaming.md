@@ -12,7 +12,7 @@ optimized_image: >-
   /assets/postimg/1banner_bbrp_acquires_nordic.png
 category: news
 tags:
-  - press-annoucement
+  - press-release
 author: BBR Admin
 paginate: true
 ---
