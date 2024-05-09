@@ -1,7 +1,7 @@
 ---
 date: 2020-01-01 00:00:00
 layout: post
-title: @BlueBirdRP acquires Nordic Gaming
+title: BlueBirdRP acquires Nordic Gaming
 subtitle: 'HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming'
 description: >-
   HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming 
