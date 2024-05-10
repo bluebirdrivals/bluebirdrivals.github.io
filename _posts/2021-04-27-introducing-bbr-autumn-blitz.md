@@ -2,7 +2,7 @@
 date: 2021-04-27 18:00:00
 layout: post
 title: Introducing BBR Autumn Blitz Circuit
-subtitle: 'We're going back to basics...'
+subtitle: We're going back to basics...
 description: >-
   We're going back to basics...
 
