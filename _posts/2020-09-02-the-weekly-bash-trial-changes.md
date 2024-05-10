@@ -1,11 +1,10 @@
-
 ---
 date: 2020-09-02 18:00:00
 layout: post
 title: The Weekly Bash Trial Changes
 subtitle: 'Some changes are coming...'
 description: >-
-  Some changes are coming...
+  blank
 
 image: >-
     /assets/postimg/1banner_weeklybash_trial_changes.png
@@ -19,6 +18,7 @@ tags:
 author: BBR Admin
 paginate: true
 ---
+
 **Good News Everyone,**
 While we are in the middle of the first season of the Mini League, we are planning to test some small but key changes to the Weekly Bash with the goal of making it fairer and more enjoyable for everyone. In preparation for the second season of the Mini League these changes will be implemented during weeks 4 and 5 of the Weekly Bash, and after deliberation may be permanent.
 
