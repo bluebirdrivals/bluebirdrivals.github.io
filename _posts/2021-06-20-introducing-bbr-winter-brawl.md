@@ -1,7 +1,7 @@
 ---
 date: 2021-06-18 18:00:00
 layout: post
-title: Introducing BBR Weekly Bash Seasons
+title: Introducing BBR Winter Brawl
 subtitle: The all new Weekly Bash format...
 description: >-
   The all new Weekly Bash format...
