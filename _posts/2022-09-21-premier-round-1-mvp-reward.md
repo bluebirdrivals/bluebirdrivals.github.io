@@ -20,6 +20,7 @@ paginate: true
 For those unaware, we did not have a stream for the last PREMIER round and we need your help to determine who should be MVP for the first round and get that $25 AUD UberEats gift card.
 
 ## THOSE IN CONTENTION FOR MVP
+
 | **​Team**  | ​Players |
 | --- | --- |
 | Going Merry | ​Smash, Viictus, RoToR |
@@ -29,6 +30,7 @@ For those unaware, we did not have a stream for the last PREMIER round and we ne
 {% include youtube.html id="lJLgys9uY9g" %}
 
 ## BASIC STATS
+
 | **Player** | **Score** | **Goals** | **Shots** | **Assists** | **Saves** | **​Demos** |
 | --- | --- | --- | --- | --- | --- | --- |
 | **_Cheery (TimTams)_**  | **_2768_** | **_9_** | **_21_** | **_5_** | **_6_** | **_8_** |
