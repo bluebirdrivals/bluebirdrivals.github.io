@@ -1,7 +1,7 @@
 ---
 date: 2021-12-07 18:00:00
 layout: post
-title: Introducing BBR x Game On Cancer™: Holiday Spectacular - 3v3 Rocket League
+title: Introducing BBR x Game On Cancer™ - Holiday Spectacular - 3v3 Rocket League
 subtitle: The final event of the year for a special cause...
 description: >-
   The final event of the year for a special cause...
