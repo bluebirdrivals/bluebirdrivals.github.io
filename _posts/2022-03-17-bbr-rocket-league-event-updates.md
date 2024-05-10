@@ -13,7 +13,6 @@ optimized_image: >-
 category: news
 tags:
   - rocket-league
-  - valorant
   - event
   - press-release
 author: BBR Admin
