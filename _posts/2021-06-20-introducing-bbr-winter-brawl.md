@@ -7,9 +7,9 @@ description: >-
   The all new Weekly Bash format...
 
 image: >-
-    /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
+    /assets/postimg/1banner_introducing_winter_brawl.png
 optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
+    /assets/postimg/1banner_introducing_winter_brawl.png
 category: news
 tags:
   - rocket-league
