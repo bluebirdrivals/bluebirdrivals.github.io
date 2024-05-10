@@ -2,10 +2,9 @@
 date: 2022-04-30 18:00:00
 layout: post
 title: Introducing BBR x Game On Cancer®️ - Superhero Spectacular Presented by RIG Gaming
-subtitle: Get your !donate ready
+subtitle: Get your !donate ready...
 description: >-
-  Get your !donate ready, because BlueBird Rivals, Game On Cancer®️ and RIG Gaming have joined forces to bring the Rocket League spectacle BACK
-
+  Get your !donate ready...
 image: >-
     /assets/postimg/1banner_bbr_goc_superhero22.png
 optimized_image: >-
