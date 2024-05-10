@@ -4,7 +4,7 @@ layout: post
 title: The Weekly Bash Trial Changes
 subtitle: 'Some changes are coming...'
 description: >-
-  blank
+  Some changes are coming...
 
 image: >-
     /assets/postimg/1banner_weeklybash_trial_changes.png
@@ -30,7 +30,9 @@ Any feedback regarding the changes is greatly appreciated and the BBR team is al
 For both Challengers and Amateur divisions, we will be replacing the single-elimination playoff bracket with a special double-elimination format in which the teams who placed second in their group will start in the lower bracket (for the Weekly Bash #4 only). 
 
 ### Example Bracket
-![Example Bracket](/assets/postimg/2post_weekly_bash_example_bracket.png.png)
+
+![Example Bracket](/assets/postimg/2post_weekly_bash_example_bracket.png)
+
 > Important Note: All Lower bracket matches will be Bo3 up until the Lower Final, after which it will be a Bo5. Only the Upper Semi-Final will be a Bo3 (and prior rounds, if there are more than 4 groups)  in the Upper bracket, the Upper Final and Grand Final will be a Bo5, with the Grand Final having a NO GAME ADVANTAGE OR BRACKET RESET.
 
 *In the Weekly Bash #5, we are testing the format being a straight up double-elimination tournament, with no group stage.*
