@@ -7,9 +7,9 @@ description: >-
   We finally have a website...
 
 image: >-
-    /assets/postimg/1banner_introducing_bbr_website.png
+    /assets/postimg/1banner_introducing_bbr_website.jpg
 optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_website.png
+    /assets/postimg/1banner_introducing_bbr_website.jpg
 category: news
 tags:
   - rocket-league
