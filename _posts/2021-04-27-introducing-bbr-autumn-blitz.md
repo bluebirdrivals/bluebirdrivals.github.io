@@ -19,7 +19,6 @@ author: BBR Admin
 paginate: true
 ---
 
-
 In the Summer, we ran a circuit that was all over the place, with multiple issues plaguing the circuit but it also had its moments such as Forbidden Gaming creating a new kickoff meta or the Rats being ever dominant (too bad, be we couldn't show them winning both the Mid-Season Brawl and Summer Brawl Finale).
 
 That's why for the rest of Autumn, it's time for us to go 'back to basics, where gone are the confusing formats, leaderboards and most importantly, double round robins. In place, we have the Autumn Blitz, a month-long circuit filled with 4 qualifier events (through our Weekly Bash events) and a $300 AUD Finale. This will run from April 30th to May 28th with just one night of the week to remember, FRIDAY NIGHT!
