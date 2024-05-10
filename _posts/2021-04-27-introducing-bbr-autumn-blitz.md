@@ -2,7 +2,7 @@
 date: 2021-04-27 18:00:00
 layout: post
 title: Introducing BBR Autumn Blitz Circuit
-subtitle: 'We're going back to basics...'
+subtitle: We're going back to basics...
 description: >-
   We're going back to basics...
 
@@ -18,7 +18,6 @@ tags:
 author: BBR Admin
 paginate: true
 ---
-
 
 In the Summer, we ran a circuit that was all over the place, with multiple issues plaguing the circuit but it also had its moments such as Forbidden Gaming creating a new kickoff meta or the Rats being ever dominant (too bad, be we couldn't show them winning both the Mid-Season Brawl and Summer Brawl Finale).
 
