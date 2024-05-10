@@ -1,5 +1,5 @@
 ---
-date: 2021-09-24 18:00:00
+date: 2021-09-25 18:00:00
 layout: post
 title: BlueBird Rivals finally expands into Valorant
 subtitle: FINALLY!
