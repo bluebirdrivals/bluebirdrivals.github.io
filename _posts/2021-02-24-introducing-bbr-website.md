@@ -12,8 +12,6 @@ optimized_image: >-
     /assets/postimg/1banner_introducing_bbr_website.jpg
 category: news
 tags:
-  - rocket-league
-  - event
   - press-release
 author: BBR Admin
 paginate: true
