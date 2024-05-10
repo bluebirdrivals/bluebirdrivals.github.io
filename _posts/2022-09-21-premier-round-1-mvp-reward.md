@@ -13,8 +13,6 @@ optimized_image: >-
 category: news
 tags:
   - rocket-league
-  - event
-  - press-release
 author: BBR Admin
 paginate: true
 ---
