@@ -1,5 +1,5 @@
 ---
-date: 2020-01-26 18:00:00
+date: 2021-01-26 18:00:00
 layout: post
 title: Introducing BBR Summer Brawl Circuit
 subtitle: 'It’s time to rethink BlueBird Rivals'
