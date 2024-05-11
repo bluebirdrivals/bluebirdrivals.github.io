@@ -1,22 +1,20 @@
 ---
-date: 2023-06-10 18:00:00
 layout: post
 title: Introducing BlueBird Rivals 251
-subtitle: 'WINNER TAKES ALL'
-description: >-
-  WINNER TAKES ALL $150 AUD... 
-
-image: >-
-    /assets/postimg/1banner_bbr_251.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_251.png
+date: 2023-06-10 18:00:00
+image: /assets/postimg/1banner_bbr_251.png
+optimized_image: /assets/postimg/1banner_bbr_251.png
+subtitle: WINNER TAKES ALL
+description: What an event BlueBird Rivals 250 was, especially with that epic
+  grand final between Merge Esports and our winners Tsurani. But that's in the
+  past and we need to talk about our upcoming winner takes all event, BlueBird
+  Rivals 251.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
 What an event BlueBird Rivals 250 was, especially with that epic grand final between Merge Esports and our winners Tsurani. But that's in the past and we need to talk about our upcoming winner takes all event, BlueBird Rivals 251.
 
