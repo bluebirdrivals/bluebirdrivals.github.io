@@ -1,24 +1,22 @@
 ---
-date: 2021-04-27 18:00:00
 layout: post
 title: Introducing BBR Autumn Blitz Circuit
+date: 2021-04-27 18:00:00
+image: /assets/postimg/1banner_introducing_bbr_autumn_blitz.png
+optimized_image: /assets/postimg/1banner_introducing_bbr_autumn_blitz.png
 subtitle: We're going back to basics...
-description: >-
-  We're going back to basics...
-
-image: >-
-    /assets/postimg/1banner_introducing_bbr_autumn_blitz.png
-optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_autumn_blitz.png
+description: In the Summer, we ran a circuit that was all over the place, with
+  multiple issues plaguing the circuit but it also had its moments such as
+  Forbidden Gaming creating a new kickoff meta or the Rats being ever dominant
+  (too bad, be we couldn't show them winning both the Mid-Season Brawl and
+  Summer Brawl Finale).
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 In the Summer, we ran a circuit that was all over the place, with multiple issues plaguing the circuit but it also had its moments such as Forbidden Gaming creating a new kickoff meta or the Rats being ever dominant (too bad, be we couldn't show them winning both the Mid-Season Brawl and Summer Brawl Finale).
 
 That's why for the rest of Autumn, it's time for us to go 'back to basics, where gone are the confusing formats, leaderboards and most importantly, double round robins. In place, we have the Autumn Blitz, a month-long circuit filled with 4 qualifier events (through our Weekly Bash events) and a $300 AUD Finale. This will run from April 30th to May 28th with just one night of the week to remember, FRIDAY NIGHT!
