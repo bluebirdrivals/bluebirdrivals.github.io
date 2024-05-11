@@ -1,24 +1,22 @@
 ---
-date: 2021-04-21 18:00:00
 layout: post
 title: Weekly Bash April Update
-subtitle: 'Some weekly bash updates...'
-description: >-
-  Some weekly bash updates...
-
-image: >-
-    /assets/postimg/1banner_weekly_bash_april_update.jpg
-optimized_image: >-
-    /assets/postimg/1banner_weekly_bash_april_update.jpg
+date: 2021-04-21 18:00:00
+image: /assets/postimg/1banner_weekly_bash_april_update.jpg
+optimized_image: /assets/postimg/1banner_weekly_bash_april_update.jpg
+subtitle: Some weekly bash updates...
+description: Last week, we put out a very simple survey, asking our fans what
+  their ideal start time and format would be. We would like to thank everyone
+  for contributing to the survey (and those that gave us compliments ;) ) and we
+  have certainly gotten some very useful data to provide a better Weekly Bash
+  experience for everyone.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 Last week, we put out a very simple survey, asking our fans what their ideal start time and format would be. We would like to thank everyone for contributing to the survey (and those that gave us compliments ;) ) and we have certainly gotten some very useful data to provide a better Weekly Bash experience for everyone.
 
 With updating the Weekly Bash, we wanted to focus on shortening the length of the event (as recently, it has been ending fairly late for our standards) and providing a better weekly experience with your feedback in mind (as our next circuit will depend on the Weekly Bash heavily).
