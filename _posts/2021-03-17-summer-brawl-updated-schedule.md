@@ -1,24 +1,20 @@
 ---
-date: 2021-03-17 18:00:00
 layout: post
 title: Summer Brawl Circuit Updated Schedule
+date: 2021-03-17 18:00:00
+image: /assets/postimg/1banner_summer_brawl_update.png
+optimized_image: /assets/postimg/1banner_summer_brawl_update.png
 subtitle: There are some new dates and changes...
-description: >-
-  There are some new dates and changes...
-
-image: >-
-    /assets/postimg/1banner_summer_brawl_update.png
-optimized_image: >-
-    /assets/postimg/1banner_summer_brawl_update.png
+description: With the second half of the circuit underway now, we have decided
+  to make some tweaks to the schedule. Here are the updated dates for the rest
+  of Summer Brawl Circuit...
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 With the second half of the circuit underway now, we have decided to make some tweaks to the schedule. Here are the updated dates for the rest of Summer Brawl Circuit:
 
 ![ ](/assets/postimg/2post_summer_brawl_updated_dates.png)
