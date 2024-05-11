@@ -1,22 +1,18 @@
 ---
-date: 2022-09-21 18:00:00
 layout: post
 title: PREMIER Round 1 - MVP Reward
+date: 2022-09-21 18:00:00
+image: /assets/postimg/1banner_premMVP.png
+optimized_image: /assets/postimg/1banner_premMVP.png
 subtitle: We need your help in deciding the MVP
-description: >-
-  We need your help in deciding the MVP
-
-image: >-
-    /assets/postimg/1banner_premMVP.png
-optimized_image: >-
-    /assets/postimg/1banner_premMVP.png
+description: For those unaware, we did not have a stream for the last PREMIER
+  round and we need your help to determine who should be MVP for the first round
+  and get that $25 AUD UberEats gift card.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
-author: BBR Admin
-paginate: true
 ---
-
 For those unaware, we did not have a stream for the last PREMIER round and we need your help to determine who should be MVP for the first round and get that $25 AUD UberEats gift card.
 
 ## THOSE IN CONTENTION FOR MVP
