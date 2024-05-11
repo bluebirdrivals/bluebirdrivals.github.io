@@ -10,7 +10,9 @@ content:
       fields: [ cover, title ]
     fields:
       - { name: layout, type: string, hidden: true, default: post }
-      - { name: cover, label: Cover image, type: image }
+      - { name: image, label: Cover image, type: image }
+      - { name: image, label: Cover image, type: image }
+      - { name: title, label: Title, type: string, required: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: categories, label: Categories, type: select, options: { values: [ "misc", "junk" ] } }
       - { name: author, label: Authors, type: string, list: true }
