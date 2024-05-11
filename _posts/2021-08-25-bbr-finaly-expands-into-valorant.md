@@ -1,24 +1,21 @@
 ---
-date: 2021-09-25 18:00:00
 layout: post
 title: BlueBird Rivals finally expands into Valorant
+date: 2021-09-25 18:00:00
+image: /assets/postimg/1banner_bbr_frenzy_blitz1.png
+optimized_image: /assets/postimg/1banner_bbr_frenzy_blitz1.png
 subtitle: FINALLY!
-description: >-
-  FINALLY!
-
-image: >-
-    /assets/postimg/1banner_bbr_frenzy_blitz1.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_frenzy_blitz1.png
+description: This has been something that has been in the works for over a year.
+  We've kept an eye on Valorant as a potential esport title to expand into since
+  it was known as 'Project A', with planning works under way for a really long
+  time..
 category: news
+author: BBR Admin
 tags:
   - valorant
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 This has been something that has been in the works for over a year. We've kept an eye on Valorant as a potential esport title to expand into since it was known as 'Project A', with planning works under way for a really long time..
 
 {% include youtube.html id="RphR6MIaAnY" %}
