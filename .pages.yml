@@ -11,7 +11,7 @@ content:
     fields:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: image, label: Cover image, type: image }
-      - { name: image, label: Cover image, type: image }
+      - { name: optimized_image, label: (Select Same Image), type: image }
       - { name: title, label: Title, type: string, required: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: categories, label: Categories, type: select, options: { values: [ "misc", "junk" ] } }
