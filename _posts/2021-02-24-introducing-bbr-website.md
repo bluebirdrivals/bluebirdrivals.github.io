@@ -1,22 +1,18 @@
 ---
-date: 2021-02-24 18:00:00
 layout: post
 title: Introducing bluebirdrivals.org (and an update on the BBR Discord Server)
-subtitle: 'We finally have a website...'
-description: >-
-  We finally have a website...
-
-image: >-
-    /assets/postimg/1banner_introducing_bbr_website.jpg
-optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_website.jpg
+date: 2021-02-24 18:00:00
+image: /assets/postimg/1banner_introducing_bbr_website.jpg
+optimized_image: /assets/postimg/1banner_introducing_bbr_website.jpg
+subtitle: We finally have a website...
+description: As a result of what happened on our Discord server the other day
+  (we'll talk about it later in the post), we have decided to fast-track the
+  development and reveal of our own standalone website.
 category: news
+author: BBR Admin
 tags:
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 ## Introducing bluebirdrivals.org
 
 As a result of what happened on our Discord server the other day (we'll talk about it later in the post), we have decided to fast-track the development and reveal of our own standalone website.
