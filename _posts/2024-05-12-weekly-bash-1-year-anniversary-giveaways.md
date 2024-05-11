@@ -12,7 +12,7 @@ category: news
 author: BBR ADMIN
 tags:
   - rocket-league
-  - press-annoucement
+  - press-release
 ---
 As we're celebrating the 1 year anniversary of the Weekly Bash, we're also in the season of giving away and we've come up with multiple giveaways to celebrate the anniversary.
 
