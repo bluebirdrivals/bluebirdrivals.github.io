@@ -2,6 +2,8 @@
 layout: post
 title: Weekly Bash 1 Year Anniversary Giveaways
 date: 2021-08-30 06:00:00
+image: /assets/postimg/1banner_weeklybash_giveaway2021.jpg
+optimized_image: /assets/postimg/1banner_weeklybash_giveaway2021.jpg
 subtitle: TIME TO CELEBRATE 1 YEAR OF WEEKLY BASH 🥳
 description: As we're celebrating the 1 year anniversary of the Weekly Bash,
   we're also in the season of giving away and we've come up with multiple
