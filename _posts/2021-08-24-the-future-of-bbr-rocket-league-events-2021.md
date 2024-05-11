@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introducing BBR Weekly Bash Season 2
+title: The future of BBR Rocket League events...
 date: 2021-09-24 18:00:00
 image: /assets/postimg/1banner_future_of_bbr_events_2021.png
 optimized_image: /assets/postimg/1banner_future_of_bbr_events_2021.png
-subtitle: The Weekly Bash is BACK!
+subtitle: Time to make some radical changes!
 description: Today (24/09/21) marks 174 weeks (or 1,218 days) since we ran our
   very first ever Friday night event with the second edition of the Viking
   Shield and since then a lot of people have given up their Friday nights to put
