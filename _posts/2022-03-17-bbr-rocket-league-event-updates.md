@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlueBird Rivals Rocket League Events Update
-date: 2022-02-07 06:00:00
+date: 2022-02-17 06:00:00
 image: /assets/postimg/1banner_BBR_2022_autumneventupdate.png
 optimized_image: /assets/postimg/1banner_BBR_2022_autumneventupdate.png
 subtitle: We have a lot to update you on...
