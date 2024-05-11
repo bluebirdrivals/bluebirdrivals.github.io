@@ -15,7 +15,7 @@ content:
       - { name: title, label: Title, type: string, required: true }
       - { name: category, label: Categories, type: select, options: { values: [ "news" ] } }
       - { name: author, label: Authors, type: string, list: true }
-      - { name: tags, label: Tags, type: rich-text }
+      - { name: tags, label: Tags, type: values }
       - { name: body, label: Body, type: rich-text }
   - name: config
     label: Jekyll config
