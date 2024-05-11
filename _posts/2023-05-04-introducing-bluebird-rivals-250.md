@@ -23,23 +23,28 @@ When: Saturday 27th of May and Sunday 28th of May
 
 ## Format:
 
-	Saturday May 27th @ 4pm AEST (Open Qualifier) 
+Saturday May 27th @ 4pm AEST (Open Qualifier)
 
-		- Open double elimination qualifier
+*   Open double elimination qualifier
+    
+    *   _Top 4 teams advance to the 'Main Event'_
+        
 
-		- Top 4 teams advance to the 'Main Event'
+Sunday May 28th @ 5:30pm AEST (Main Event)
 
-	Sunday May 28th @ 5:30pm AEST (Main Event)
-
-		- 8 team single elimination
-
-		- 4 invited teams + 4 qualified teams
+*   8 team single elimination
+    
+    *   4 invited teams
+        
+    *   4 qualified teams
+        
 
 ## Prize: $750 AUD
 
-	1st - $500 AUD
-
-	2nd - $250 AUD
+*   1st - $500 AUD
+    
+*   2nd - $250 AUD
+    
 
 Sign Ups open on Tuesday May 9
 
@@ -55,11 +60,11 @@ After near 6 years of running tournaments and 249 events across 4 games, we can 
 
 We are working on two new rule additions to our rulebook to make it clearer as to when our staff can play in our events and their powers and our updated policy on banned players participating in our events. While the exact wording is still being finalised, we are able to provide the general gist of our intentions.
 
-### *Staff Playing in BlueBird Rivals Events*
+### _Staff Playing in BlueBird Rivals Events_
 
-For low tier prize pool events, staff will be able participate and help out with the event unrestricted. For medium tier prize pool events, staff will be participate but they won't be able to seed or have any admin control throughout the event. However they can help the preparation or the live-stream of the event unrestricted. For high tier prize pool events, staff can only participate in the event if they *strictly* had an advisory role in the creation/planning of the event. The exact amounts will be finalised in the rulebook.
+For low tier prize pool events, staff will be able participate and help out with the event unrestricted. For medium tier prize pool events, staff will be participate but they won't be able to seed or have any admin control throughout the event. However they can help the preparation or the live-stream of the event unrestricted. For high tier prize pool events, staff can only participate in the event if they _strictly_ had an advisory role in the creation/planning of the event. The exact amounts will be finalised in the rulebook.
 
-### *Banned Players*
+### _Banned Players_
 
 For those serving a ban from a developer sanctioned league or event (e.g. RLCS) will require an exemption from the BlueBird Rivals staff team before being able to participate in any BlueBird Rivals events. For those that don't get this exemption or ignore the rule, we will be conducting random checks for those that haven't participated in an developer sanctioned league or event recently and for those that do get caught, punishments will occur.
 
@@ -68,4 +73,3 @@ For those serving a ban from a developer sanctioned league or event (e.g. RLCS) 
 While we're still working on the exact long term plans and goals for BlueBird Rivals, you can expect that the overall success of BlueBird Rivals 250 will influence those goals and plans. But in the more immediate future, you can expect us to be more active on our social media and giving BlueBird Rivals more of a personality. Also during this time, we will be conducting multiple experiments as we look at ways of making BlueBird Rivals a more self sustaining brand. But in terms of events, we do have an extra 2 Rocket League events in the pipeline throughout the next 3 months and we're also planning a non-esports event that should be revealed within that same time period.
 
 So keep an eye out on May 9 for the sign up link and we'll see you on the field or in the stands on May 27/28.
-
