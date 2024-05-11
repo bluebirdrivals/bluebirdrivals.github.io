@@ -1,25 +1,21 @@
 ---
-date: 2022-08-22 18:00:00
 layout: post
 title: Introducing the BBR 2022 Framework
+date: 2022-08-22 18:00:00
+image: /assets/postimg/1banner_BBR_2022FRAMEWORK.png
+optimized_image: /assets/postimg/1banner_BBR_2022FRAMEWORK.png
 subtitle: BBR IS BACK!
-description: >-
-  BBR IS BACK!
-
-image: >-
-    /assets/postimg/1banner_BBR_2022FRAMEWORK.png
-optimized_image: >-
-    /assets/postimg/1banner_BBR_2022FRAMEWORK.png
+description: After a much longer than expected break, BlueBird Rivals is BACK to
+  stop the drought of events that is occurring in the OCE region with our 2022
+  Events Framework.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - valorant
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 After a much longer than expected break, BlueBird Rivals is BACK to stop the drought of events that is occurring in the OCE region with our 2022 Events Framework.
 
 ## ROCKET LEAGUE - 2022 FRAMEWORK
