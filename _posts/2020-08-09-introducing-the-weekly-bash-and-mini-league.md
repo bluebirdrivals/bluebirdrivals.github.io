@@ -1,22 +1,23 @@
 ---
-date: 2020-08-09 18:00:00
 layout: post
 title: Introducing The Weekly Bash (featuring the Mini League)
-subtitle: 'THE ALL NEW WEEKLY EVENT SERIES'
-description: >-
-  THE ALL NEW WEEKLY EVENT SERIES 
-
-image: >-
-    /assets/postimg/1banner_weeklybashs1.png
-optimized_image: >-
-    /assets/postimg/1banner_weeklybashs1.png
+date: 2020-08-09 18:00:00
+image: /assets/postimg/1banner_weeklybashs1.png
+optimized_image: /assets/postimg/1banner_weeklybashs1.png
+subtitle: THE ALL NEW WEEKLY EVENT SERIES
+description: The Weekly Bash is BlueBird Rivals’ refreshed weekly tournament
+  series, designed to provide a highly competitive experience for those wishing
+  to push through the bubble scene and test their skills to their limits. A part
+  of 'The Weekly Bash' is the 'Mini League', a structured, short league for the
+  top 6 to fight for their share in the $250 AUD prize pool. Each season will
+  operate in a 5 week cycle, to provide that consistent and refreshing
+  experience.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
 The Weekly Bash is BlueBird Rivals’ refreshed weekly tournament series, designed to provide a highly competitive experience for those wishing to push through the bubble scene and test their skills to their limits. A part of 'The Weekly Bash' is the 'Mini League', a structured, short league for the top 6 to fight for their share in the $250 AUD prize pool. Each season will operate in a 5 week cycle, to provide that consistent and refreshing experience.
 
