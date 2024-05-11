@@ -4,7 +4,7 @@ media:
 content:
   - name: posts
     label: Posts
-    path: _posts
+    path: bluebirdrivals.github.io/_posts
     type: collection
     fields:
       (...)
