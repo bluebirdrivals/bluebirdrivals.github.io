@@ -1,22 +1,19 @@
 ---
-date: 2023-05-04 18:00:00
 layout: post
 title: Introducing BlueBird Rivals 250
-subtitle: '250 EVENTS AND STILL COUNTING...'
-description: >-
-  250 EVENTS AND STILL COUNTING...
-
-image: >-
-    /assets/postimg/1banner_bbr_250.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_250.png
+date: 2023-05-04 18:00:00
+image: /assets/postimg/1banner_bbr_250.png
+optimized_image: /assets/postimg/1banner_bbr_250.png
+subtitle: 250 EVENTS AND STILL COUNTING...
+description: It's been a hot minute since we've last ran an event or talked
+  here, so we're not going bore you with the not so fun stuff first and we're
+  just going to cut straight to the event details.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
 It's been a hot minute since we've last ran an event or talked here, so we're not going bore you with the not so fun stuff first and we're just going to cut straight to the event details.
 
