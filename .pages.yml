@@ -4,13 +4,13 @@ media:
 content:
   - name: posts
     label: Posts
-    path: /_posts
+    path: src/_posts
     type: collection
     fields:
       (...)
   - name: authors
     label: Authors
-    path: /_data/authors.json
+    path: src/_data/authors.json
     type: file
     fields:
       (...)
