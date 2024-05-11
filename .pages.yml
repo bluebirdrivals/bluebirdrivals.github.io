@@ -4,13 +4,13 @@ media:
 content:
   - name: posts
     label: Posts
-    path: /bluebirdrivals.github.io/_posts
+    path: bluebirdrivals.github.io/_posts
     type: collection
     fields:
       (...)
   - name: authors
     label: Authors
-    path: /bluebirdrivals.github.io/_data/authors.json
+    path: bluebirdrivals.github.io/_data/authors.json
     type: file
     fields:
       (...)
