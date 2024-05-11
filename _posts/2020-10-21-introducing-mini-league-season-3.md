@@ -1,24 +1,26 @@
 ---
-date: 2020-10-21 18:00:00
 layout: post
 title: Mini League Season 3 Details
-subtitle: 'Introducing Mini League Season 3...'
-description: >-
-  Introducing Mini League Season 3...
-
-image: >-
-    /assets/postimg/1banner_mini_league_s3.png
-optimized_image: >-
-    /assets/postimg/1banner_mini_league_s3.png
+date: 2020-10-21 18:00:00
+image: /assets/postimg/1banner_mini_league_s3.png
+optimized_image: /assets/postimg/1banner_mini_league_s3.png
+subtitle: Introducing Mini League Season 3...
+description: Last Friday was the conclusion of the second season of the Mini
+  League, where we saw Max’s Rancid Rats be the back to back champions of the
+  Mini League. Ex. Hazard who had taken out the Rats for the first-ever time in
+  League Play, were unable to recreate that success in the final game, leaving
+  that rivalry concluded with the Rats taking out ex. Hazard three series’ to
+  one. We would like to extend a personal thanks to everyone involved in this
+  season of Mini League, it was very exciting to see all of these teams play and
+  compete. In this post, we will be providing details on the Mini League Season
+  3 with some very minor changes.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 **Hello Everyone,**
 
 Last Friday was the conclusion of the second season of the Mini League, where we saw Max’s Rancid Rats be the back to back champions of the Mini League. Ex. Hazard who had taken out the Rats for the first-ever time in League Play, were unable to recreate that success in the final game, leaving that rivalry concluded with the Rats taking out ex. Hazard three series’ to one. We would like to extend a personal thanks to everyone involved in this season of Mini League, it was very exciting to see all of these teams play and compete. In this post, we will be providing details on the Mini League Season 3 with some very minor changes.
