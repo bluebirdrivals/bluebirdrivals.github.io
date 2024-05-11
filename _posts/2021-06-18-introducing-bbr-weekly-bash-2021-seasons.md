@@ -1,40 +1,37 @@
 ---
-date: 2021-06-18 18:00:00
 layout: post
 title: Introducing BBR Weekly Bash Seasons
+date: 2021-06-18 18:00:00
+image: /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
+optimized_image: /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
 subtitle: The all new Weekly Bash format...
-description: >-
-  The all new Weekly Bash format...
-
-image: >-
-    /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
-optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
+description: It's almost been a year since the 'Weekly Bash' series (originally
+  dubbed 'The Weekly Bash') has formed and it has been through a lot. It was
+  originally formed as a event that operated on a 5 week cycle and contained the
+  Mini League for those that qualified and since then, we had used the Weekly
+  Bash for our qualifiers for the Summer Brawl Premier, then was used a points
+  leaderboard for the Summer Brawl Finale and then was recently used for the
+  qualifiers for the Autumn Blitz Finale and was apart of the overall Autumn
+  Blitz circuit. We enjoyed the way that the Autumn Blitz operated so much, that
+  we have decided to spin-off that format and make our Weekly Bash events a
+  STANDALONE series, where it utilise that format with some tweaks to it.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
+It's almost been a year since the 'Weekly Bash' series (originally dubbed 'The Weekly Bash') has formed and it has been through a lot. It was originally formed as a event that operated on a 5 week cycle and contained the Mini League for those that qualified and since then, we had used the Weekly Bash for our qualifiers for the Summer Brawl Premier, then was used a points leaderboard for the Summer Brawl Finale and then was recently used for the qualifiers for the Autumn Blitz Finale and was apart of the overall Autumn Blitz circuit. We enjoyed the way that the Autumn Blitz operated so much, that we have decided to spin-off that format and make our Weekly Bash events a STANDALONE series, where it utilise that format with some tweaks to it.
 
+#### {% include youtube.html id="1BvxIqZxFxs" %}
 
-In the Summer, we ran a circuit that was all over the place, with multiple issues plaguing the circuit but it also had its moments such as Forbidden Gaming creating a new kickoff meta or the Rats being ever dominant (too bad, be we couldn't show them winning both the Mid-Season Brawl and Summer Brawl Finale).
+The all new Weekly Bash Seasons is a recurring serialised tournament filled with 4 weeks worth of qualifiers and a monthly finale, similar to the Autumn Blitz circuit with a few changes. The qualifiers will remain exactly the same for the season, however the Finale will get some changes. No longer will there be any invited teams, meaning this is pure top 4 final with only those that have grinded they way. Also the TOTAL finale prize pool will be $150 AUD with first place getting $120 AUD and second place getting $30 AUD.
 
-That's why for the rest of Autumn, it's time for us to go 'back to basics, where gone are the confusing formats, leaderboards and most importantly, double round robins. In place, we have the Autumn Blitz, a month-long circuit filled with 4 qualifier events (through our Weekly Bash events) and a $300 AUD Finale. This will run from April 30th to May 28th with just one night of the week to remember, FRIDAY NIGHT!
-
-{% include youtube.html id="ZC5-ozXjZik" %}
-
-## Qualifiers
-_Weekly Bash #31-34 (April 30 - May 21)_
-During the timespan of this circuit, our Weekly Bash events will be used as qualifiers for the Finale and to make things simple for everyone, the team that wins, will qualify straight to the finale (assuming they meet the eligibility requirements for a qualification spot). That's right, there are no more leaderboards, meaning that it's all or nothing.
-
-## Finale
-_Autumn Blitz Finale (May 28)_
-The 4 qualified teams from the 'Weekly Bashes' will join 4 invited teams in a classic Double Elimination tournament battling it for their share in the $300 AUD prize pool. In a first for BlueBird Rivals, the finale will feature a player based seeding system, meaning that only the players will have themselves to blame for the seeding if it goes wrong. The finale will also feature a brand new broadcast experience for our viewers to tune in and stay engaged. There will be hard battles to be played out and only one team at the end of the night can declare themselves the Autumn Blitz victors and join Max's Rancid Rats as a BlueBird Rivals seasonal circuit victor.
+We will be seeing how this new Weekly Bash performs and we will work on refining it, season by season based on your input (oh there will be more Weekly Bash surveys to come).
 
 ## More Details
-For more details (including the rule book, format and etc) be sure to check out [https://www.bluebirdrivals.org/autumnblitz](https://www.bluebirdrivals.org/autumnblitz/) and we'll be announcing our invited teams on there and our social media pages.
 
-We can't wait to see you on the field (or on stream).
+For more details about the first season of the Weekly Bash (including the rule book, format and etc), be sure to check out <a target="_self" rel=" noopener" class="ARhbh sn3Ek" href="https://www.bluebirdrivals.org/weeklybashseason1">https://www.bluebirdrivals.org/weeklybashseason1</a>. We can't wait to see you on the field (or on stream) with this new stand-alone series.
+
+p.s. If you use the Epic Games version of Rocket League, you should now be able to sign-up without any issues or workarounds.
