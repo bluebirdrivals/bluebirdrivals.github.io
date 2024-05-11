@@ -1,26 +1,22 @@
 ---
-date: 2022-02-14 18:00:00
 layout: post
 title: BBR VISION 2022 - A new vision of events
+date: 2022-02-14 18:00:00
+image: /assets/postimg/1banner_bbr_vision22.png
+optimized_image: /assets/postimg/1banner_bbr_vision22.png
 subtitle: A new vision for the new year...
-description: >-
-  A new vision for the new year...
-
-image: >-
-    /assets/postimg/1banner_bbr_vision22.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_vision22.png
+description: Today is Valentines Day, a day of love and affection and over here
+  at BlueBird Rivals, we run our events for the love of Esports and the Oceanic
+  region. After a longer than expected break, we are BACK with our vision for
+  the not so new year.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - valorant
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
-
 Today is Valentines Day, a day of love and affection and over here at BlueBird Rivals, we run our events for the love of Esports and the Oceanic region. After a longer than expected break, we are BACK with our vision for the not so new year.
 
 ## Rocket League
