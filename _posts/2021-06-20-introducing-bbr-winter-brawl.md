@@ -1,24 +1,24 @@
 ---
-date: 2021-06-18 18:00:00
 layout: post
 title: Introducing BBR Winter Brawl
+date: 2021-06-18 18:00:00
+image: /assets/postimg/1banner_introducing_winter_brawl.png
+optimized_image: /assets/postimg/1banner_introducing_winter_brawl.png
 subtitle: The all new Weekly Bash format...
-description: >-
-  The all new Weekly Bash format...
-
-image: >-
-    /assets/postimg/1banner_introducing_winter_brawl.png
-optimized_image: >-
-    /assets/postimg/1banner_introducing_winter_brawl.png
+description: It's been 3 weeks since the Autumn Blitz concluded, where we saw
+  the invited favourites in Overt take out the underdogs of Clarity ESC in a
+  clean sweep fashion. Now it's time to focus what's next for BlueBird Rivals.
+  Yesterday, we already announced that the Weekly Bash would be turned into a
+  stand-alone event with seasons and a finale but for our next seasonal circuit,
+  it time for another brawl with the 'Winter Brawl', with a frosty $600 AUD+
+  prize pool.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 It's been 3 weeks since the Autumn Blitz concluded, where we saw the invited favourites in Overt take out the underdogs of Clarity ESC in a clean sweep fashion. Now it's time to focus what's next for BlueBird Rivals. Yesterday, we already announced that the Weekly Bash would be turned into a stand-alone event with seasons and a finale but for our next seasonal circuit, it time for another brawl with the 'Winter Brawl', with a frosty $600 AUD+ prize pool.
 
 {% include youtube.html id="mPdeHeObmQs" %}
