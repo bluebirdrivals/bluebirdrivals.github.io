@@ -1,24 +1,24 @@
 ---
-date: 2020-09-14 18:00:00
 layout: post
 title: Introducing Mini League Season 2 and The Weekly Bash Update
-subtitle: 'Introducing Mini League Season 2...'
-description: >-
-  Introducing Mini League Season 2...
-
-image: >-
-    /assets/postimg/1banner_mini_league_s2.png
-optimized_image: >-
-    /assets/postimg/1banner_mini_league_s2.png
+date: 2020-09-14 18:00:00
+image: /assets/postimg/1banner_mini_league_s2.png
+optimized_image: /assets/postimg/1banner_mini_league_s2.png
+subtitle: Introducing Mini League Season 2...
+description: Last Friday was the conclusion of the first season of the Mini
+  League, where we saw Max’s Rancid Rats take out the whole tournament
+  undefeated. Hazard had put up a good fight against the rats, taking them to
+  game five in the Grand Final. We would like to extend a personal thank you to
+  everyone involved in the first season of Mini League. In this post, we will be
+  providing details on the Mini League Season 2 and some of the more permanent
+  changes that we are making to the Weekly Bash.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 Hello Everyone,
 
 Last Friday was the conclusion of the first season of the Mini League, where we saw Max’s Rancid Rats take out the whole tournament undefeated. Hazard had put up a good fight against the rats, taking them to game five in the Grand Final. We would like to extend a personal thank you to everyone involved in the first season of Mini League. In this post, we will be providing details on the Mini League Season 2 and some of the more permanent changes that we are making to the Weekly Bash.
