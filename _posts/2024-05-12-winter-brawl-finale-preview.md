@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Brawl Finale Preview
-date: 2024-08-10 06:00:00
+date: 2021-08-10 06:00:00
 image: /assets/postimg/1banner_winterbrawlfinale_preview.png
 optimized_image: /assets/postimg/1banner_winterbrawlfinale_preview.png
 subtitle: The top 4 has been locked in...
