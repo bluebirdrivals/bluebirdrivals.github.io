@@ -1,25 +1,26 @@
 ---
-date: 2021-12-07 18:00:00
 layout: post
 title: Introducing BBR x Game On Cancer™ - Holiday Spectacular - 3v3 Rocket League
+date: 2021-12-07 18:00:00
+image: /assets/postimg/1banner_bbr_goc_holiday_spectacular21.png
+optimized_image: /assets/postimg/1banner_bbr_goc_holiday_spectacular21.png
 subtitle: The final event of the year for a special cause...
 description: >-
-  The final event of the year for a special cause...
+  This December, BlueBird Rivals and Game On Cancer™ have joined forces to put
+  on a Rocket League spectacle and raise money for cancer.
 
-image: >-
-    /assets/postimg/1banner_bbr_goc_holiday_spectacular21.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_goc_holiday_spectacular21.png
+
+  We have got two events running on the 17th of December, an invite only event,
+  where 8 teams will battle it out and fight for their share in the $500 AUD
+  prize pool. We haven't forgotten about you and we have an open event, where
+  you will be battling it out for your share in the $200 AUD prize pool.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
-
 This December, BlueBird Rivals and Game On Cancer™ have joined forces to put on a Rocket League spectacle and raise money for cancer.
 
 We have got two events running on the 17th of December, an invite only event, where 8 teams will battle it out and fight for their share in the $500 AUD prize pool. We haven't forgotten about you and we have an open event, where you will be battling it out for your share in the $200 AUD prize pool.
