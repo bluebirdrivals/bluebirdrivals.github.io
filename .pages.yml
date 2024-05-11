@@ -12,7 +12,7 @@ content:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: image, label: Cover image, type: image }
       - { name: optimized_image, label: (Select Same Image), type: image }
-      - { name: date, label: Post Date, type: date, required: true, options: { time: true, format: YYYY-YYYY-MM-DD hh:mm:ss } }
+      - { name: date, label: Post Date, type: date, required: true, options: { time: true, format: YYYY-MM-DD hh:mm:ss } }
       - { name: title, label: Title, type: string, required: true }
       - { name: category, label: Categories, type: select, options: { values: [ "news" ] } }
       - { name: author, label: Author, type: string, list: true }
