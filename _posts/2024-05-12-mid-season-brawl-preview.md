@@ -48,7 +48,7 @@ This event prize pool will be a crowdfunded enabled event, so if you want to inc
 
 ## Qualified Teams
 
-![](/assets/postimg/2post_MidSeasonBrawlPreview_BC)
+![](/assets/postimg/2post_MidSeasonBrawlPreview_BC)![](/assets/postimg/2post_MidSeasonBrawlPreview_BC.png)
 
 ## Brain Chasers (Group A Seed 1)
 
@@ -58,7 +58,7 @@ With great team plays and high mechanical skill, this team won’t be easily bea
 
 Bananahead has been a standout player from Brain Chasers and the tournament with fantastic mechanics and 1v1 outplays seen in the first round robin makes this player any defence's worst nightmare.
 
-![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_m.png)
+![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_m.png)![](/assets/postimg/2post_MidSeasonBrawlPreview_m.png)
 
 ## Mako (Group B Seed 1)
 
@@ -68,7 +68,7 @@ All the players on this roster have the ability to perform in any position. With
 
 Morse has proven to be a versatile player for Mako filling into any position on the rotation whether that is defence, offence, or sweep, he is always ready to make an impact.
 
-![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_fe.png)
+![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_fe.png)![](/assets/postimg/2post_MidSeasonBrawlPreview_fe.png)
 
 ## Fractal Esports (Group A Seed 2)
 
@@ -78,7 +78,7 @@ With their only loss being to Brain Chasers, Fractal Esports have been playing t
 
 Joshuadx7 has been a big source of defensive power for this team. Having some of the highest averages saves a game has helped him become a saviour for Fractal Esports leading them to be 2nd seed.
 
-## ![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_mrr.png)
+## ![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_mrr.png)![](/assets/postimg/2post_MidSeasonBrawlPreview_mrr.png)
 
 ## Max’s Rancid Rats (Group B Seed 2)
 
@@ -88,7 +88,7 @@ Despite being second seed (by a single game difference), Max’s Rancid Rats is 
 
 SSteve is a player to keep an eye on in any series with great decision making and mechanics to back it up makes him hard to get past in the midfield and is a danger on the offence never afraid to go for the demo and get the opposition flustering.
 
-![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_gu.png)
+![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_gu.png)![](/assets/postimg/2post_MidSeasonBrawlPreview_gu.png)
 
 ## Good and Useful (Group A Seed 3)
 
@@ -98,7 +98,7 @@ Being one of the more aggressive teams in the competition Good and Useful has be
 
 MrShoeShoe has led this team as their most aggressive player taking the shots as they come testing the enemy’s defence. Be sure that Shoe will be scoring if the defence gives even an inch.
 
-![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_ah.png)
+![](/assets/postimg/assets/postimg/2post_MidSeasonBrawlPreview_ah.png)![](/assets/postimg/2post_MidSeasonBrawlPreview_ah.png)
 
 ## AHHHHH (Group B Seed 3)
 
@@ -108,4 +108,4 @@ Despite being the 3rd seed from their group, AHHHHH have shown that when they ar
 
 In their series win, Scout was a big part of the win getting an impressive 45% shooting accuracy. If Scout can bring this accuracy to all his future games he will be a scary offensive player for any of these teams to defend against.
 
-With these exciting players and many more hitting the field this weekend it will be a thrilling series of matches to find the best team for the Mid-Season Brawl. Be sure to catch all the action at <a target="_blank" rel=" noopener" class="ARhbh sn3Ek" href="https://www.twitch.tv/bluebirdrivals"> https://www.twitch.tv/bluebirdrivals</a> on Saturday and Sunday at 7:00 pm AEDT.
+With these exciting players and many more hitting the field this weekend it will be a thrilling series of matches to find the best team for the Mid-Season Brawl. Be sure to catch all the action at <a target="_blank" rel=" noopener" class="ARhbh sn3Ek" href="https://www.twitch.tv/bluebirdrivals">https://www.twitch.tv/bluebirdrivals</a> on Saturday and Sunday at 7:00 pm AEDT.
