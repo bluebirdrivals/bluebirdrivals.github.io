@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Mid-Season Brawl Preview
-date: 2021-05-12 06:00:00
+date: 2021-02-26 06:00:00
+image: /assets/postimg/1banner_mid_season_brawl_preview.png
+optimized_image: /assets/postimg/1banner_mid_season_brawl_preview.png
 subtitle: The Mid-Season Brawl is coming soon...
 description: As we head into the middle of the Summer Brawl Premier, we will see
   the top 3 teams of each group go head-to-head in the Mid-Season Brawl. With
