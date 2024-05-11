@@ -1,20 +1,20 @@
 ---
-date: 2020-01-01 00:00:00
 layout: post
 title: BlueBirdRP acquires Nordic Gaming
-subtitle: 'HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming'
-description: >-
-  HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming 
-
-image: >-
-  /assets/postimg/1banner_bbrp_acquires_nordic.png
-optimized_image: >-
-  /assets/postimg/1banner_bbrp_acquires_nordic.png
+date: 2020-01-01 00:00:00
+image: /assets/postimg/1banner_bbrp_acquires_nordic.png
+optimized_image: /assets/postimg/1banner_bbrp_acquires_nordic.png
+subtitle: HAPPY NEW YEAR BlueBirdRP acquires Nordic Gaming
+description: Happy New Year! Along with many changes to Nordic Gaming throughout
+  the last year, came both successes and drawbacks, but it was you guys and gals
+  who joined us along the way. To kick off the new year, we have an exciting
+  announcement to share... As of today (January 1st 12:00 AM AEDT) our
+  partnership with BlueBirdRP will grow from a one off event, into a full
+  co-company existence.
 category: news
+author: BBR Admin
 tags:
   - press-release
-author: BBR Admin
-paginate: true
 ---
 Happy New Year!
 Along with many changes to Nordic Gaming throughout the last year, came both successes and drawbacks, but it was you guys and gals who joined us along the way.
