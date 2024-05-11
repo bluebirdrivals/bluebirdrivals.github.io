@@ -12,8 +12,8 @@ description: As we head into the middle of the Summer Brawl Premier, we will see
 category: news
 author: BBR ADMIN
 tags:
-  - "#rocket-league"
-  - "#preview"
+  - rocket-league
+  - preview
 ---
 As we head into the middle of the Summer Brawl Premier, we will see the top 3 teams of each group go head-to-head in the Mid-Season Brawl. With $250 AUD up for grabs, this will be an exciting tournament to watch as every team will be sure to bring their best to come out on top.
 
