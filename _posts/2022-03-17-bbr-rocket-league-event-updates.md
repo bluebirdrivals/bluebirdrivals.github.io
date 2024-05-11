@@ -1,24 +1,20 @@
 ---
-date: 2022-02-14 18:00:00
 layout: post
 title: BlueBird Rivals Rocket League Events Update
+date: 2022-02-14 18:00:00
+image: /assets/postimg/1banner_BBR_2022_autumneventupdate.png
+optimized_image: /assets/postimg/1banner_BBR_2022_autumneventupdate.png
 subtitle: We have a lot to update you on...
-description: >-
-  We have a lot to update you on...
-
-image: >-
-    /assets/postimg/1banner_BBR_2022_autumneventupdate.png
-optimized_image: >-
-    /assets/postimg/1banner_BBR_2022_autumneventupdate.png
+description: As we head into 'Autumn RISE Finale' next Monday, we have a lot to
+  update you on with our Rocket League plans and we're finally ready to announce
+  the details for the 'Autumn PREMIER' series that will be starting up soon.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 As we head into 'Autumn RISE Finale' next Monday, we have a lot to update you on with our Rocket League plans and we're finally ready to announce the details for the 'Autumn PREMIER' series that will be starting up soon.
 
 ![ ](/assets/postimg/2post_RISE_BANNER.png)
