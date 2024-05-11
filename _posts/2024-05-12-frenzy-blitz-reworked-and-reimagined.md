@@ -12,9 +12,9 @@ description: So our Valorant event plan hasn't exactly gone the way we wanted
 category: news
 author: BBR ADMIN
 tags:
-  - "#valorant"
-  - "#event"
-  - "#press-release"
+  - valorant
+  - event
+  - press-release
 ---
 So our Valorant event plan hasn't exactly gone the way we wanted to, with us having to call off the original Frenzy Blitz event due to low attendance. So we have gone back drawing board to rework and reimagine our Valorant events for the rest of the year.
 
