@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Frenzy Blitz. Reworked and Reimagined. "
-date: 2021-10-09 06:00:00
+date: 2021-10-29 06:00:00
 image: /assets/postimg/1banner_bbr_frenzy_blitz1.png
 optimized_image: /assets/postimg/1banner_bbr_frenzy_blitz1.png
 subtitle: Better suited for the Valorant scene...
-description: Better suited for the Valorant scene...
+description: So our Valorant event plan hasn't exactly gone the way we wanted
+  to, with us having to call off the original Frenzy Blitz event due to low
+  attendance. So we have gone back drawing board to rework and reimagine our
+  Valorant events for the rest of the year.
 category: news
 author: BBR ADMIN
 tags:
