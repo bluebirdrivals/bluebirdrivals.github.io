@@ -16,7 +16,7 @@ content:
       - { name: optimized_image, label: (Select Same Image), type: image, required: true }
       - { name: subtitle, label: Subtitle, type: text, required: true }
       - { name: description, label: Description, type: text, required: true }
-      - { name: category, label: Categories, type: select, options: { values: [ "news" ] }, required: true }
+      - { name: category, label: Categories, type: select, options: { values: [ "news", "preview", "post-event-pr" ] }, required: true }
       - { name: author, label: Author, type: string, required: true }
       - { name: tags, label: Tags, type: string, list: true, required: true }
       - { name: body, label: Body, type: rich-text, required: true }
