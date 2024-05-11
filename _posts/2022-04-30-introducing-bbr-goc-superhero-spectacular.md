@@ -1,23 +1,22 @@
 ---
-date: 2022-04-30 18:00:00
 layout: post
-title: Introducing BBR x Game On Cancer®️ - Superhero Spectacular Presented by RIG Gaming
+title: Introducing BBR x Game On Cancer®️ - Superhero Spectacular Presented by
+  RIG Gaming
+date: 2022-04-30 18:00:00
+image: /assets/postimg/1banner_bbr_goc_superhero22.png
+optimized_image: /assets/postimg/1banner_bbr_goc_superhero22.png
 subtitle: Get your !donate ready...
-description: >-
-  Get your !donate ready...
-image: >-
-    /assets/postimg/1banner_bbr_goc_superhero22.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_goc_superhero22.png
+description: Get your !donate ready, because BlueBird Rivals, Game On Cancer®️
+  and RIG Gaming have joined forces to bring the Rocket League spectacle BACK
+  and raise money for cancer research as a 2 night spectacle featuring a $500
+  AUD prize pool, among other goodies.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 Get your !donate ready, because BlueBird Rivals, Game On Cancer®️ and RIG Gaming have joined forces to bring the Rocket League spectacle BACK and raise money for cancer research as a 2 night spectacle featuring a $500 AUD prize pool, among other goodies.
 
 Night one is the open qualifier event, where teams will be battling it out for a top 2 spot for the main event. Night two is the main event, where the two qualified teams will join 4 invited teams to battle it out in a double elimination bracket and fight for their share in the $500 AUD prize pool.
