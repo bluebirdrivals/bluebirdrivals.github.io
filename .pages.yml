@@ -10,14 +10,16 @@ content:
       fields: [ cover, title ]
     fields:
       - { name: layout, type: string, hidden: true, default: post }
-      - { name: image, label: Cover image, type: image }
-      - { name: optimized_image, label: (Select Same Image), type: image }
-      - { name: date, label: Post Date, type: date, required: true, options: { time: true, format: YYYY-MM-DD hh:mm:ss } }
       - { name: title, label: Title, type: string, required: true }
-      - { name: category, label: Categories, type: select, options: { values: [ "news" ] } }
-      - { name: author, label: Author, type: string }
-      - { name: tags, label: Tags, type: string, list: true }
-      - { name: body, label: Body, type: rich-text }
+      - { name: date, label: Post Date, type: date, required: true, options: { time: true, format: YYYY-MM-DD hh:mm:ss } }
+      - { name: image, label: Cover image, type: image, required: true }
+      - { name: optimized_image, label: (Select Same Image), type: image, required: true }
+      - { name: subtitle, label: Body, type: text, required: true }
+      - { name: description, label: Body, type: text, required: true }
+      - { name: category, label: Categories, type: select, options: { values: [ "news" ] }, required: true }
+      - { name: author, label: Author, type: string, required: true }
+      - { name: tags, label: Tags, type: string, list: true, required: true }
+      - { name: body, label: Body, type: rich-text, required: true }
   - name: config
     label: Jekyll config
     type: file
