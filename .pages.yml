@@ -13,7 +13,6 @@ content:
       - { name: image, label: Cover image, type: image }
       - { name: optimized_image, label: (Select Same Image), type: image }
       - { name: title, label: Title, type: string, required: true }
-      - { name: title, label: Title, type: string, required: true }
       - { name: category, label: Categories, type: select, options: { values: [ "news" ] } }
       - { name: author, label: Authors, type: string, list: true }
       - { name: tags, label: Tags, type: string }
