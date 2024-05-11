@@ -1,25 +1,24 @@
 ---
-date: 2021-08-09 18:00:00
 layout: post
 title: Introducing BBR Weekly Bash Season 2
+date: 2021-08-09 18:00:00
+image: /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s2.png
+optimized_image: /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s2.png
 subtitle: The Weekly Bash is BACK!
-description: >-
-  The Weekly Bash is BACK!
-
-image: >-
-    /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s2.png
-optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s2.png
+description: It has been a year (to the day) since the 'Weekly Bash' series
+  (originally dubbed 'The Weekly Bash') was announced and it has been through a
+  lot. It was originally formed as a event that operated on a 5 week cycle and
+  contained the Mini League for those that qualified and since then, changed
+  quite a bit with the most recent change being the serialised format. With this
+  being the one year anniversary of the Weekly Bash Series, we will be making
+  this season quite special.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
-
 It has been a year (to the day) since the 'Weekly Bash' series (originally dubbed 'The Weekly Bash') was announced and it has been through a lot. It was originally formed as a event that operated on a 5 week cycle and contained the Mini League for those that qualified and since then, changed quite a bit with the most recent change being the serialised format. With this being the one year anniversary of the Weekly Bash Series, we will be making this season quite special.
 
 ## 🥳🎉 A Season of Celebration 🎉🥳
