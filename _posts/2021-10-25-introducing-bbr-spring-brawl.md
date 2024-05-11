@@ -1,24 +1,21 @@
 ---
-date: 2021-10-25 18:00:00
 layout: post
 title: Introducing BBR Spring Brawl Circuit
+date: 2021-10-25 18:00:00
+image: /assets/postimg/1banner_bbr_spring_brawl.png
+optimized_image: /assets/postimg/1banner_bbr_spring_brawl.png
 subtitle: The final brawl of the year...
-description: >-
-  The final brawl of the year...
-
-image: >-
-    /assets/postimg/1banner_bbr_spring_brawl.png
-optimized_image: >-
-    /assets/postimg/1banner_bbr_spring_brawl.png
+description: With the conclusion of the Weekly Bash upon us, it's now the right
+  time to talk about the final brawl of the year. The Spring Brawl circuit is
+  our biggest event of the year and our most unique with a $750 AUD Prize Pool
+  and multiple pathways to the Finale.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
 With the conclusion of the Weekly Bash upon us, it's now the right time to talk about the final brawl of the year. The Spring Brawl circuit is our biggest event of the year and our most unique with a $750 AUD Prize Pool and multiple pathways to the Finale.
 
 ## Premier Stage
