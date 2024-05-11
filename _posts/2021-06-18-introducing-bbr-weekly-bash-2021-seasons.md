@@ -6,15 +6,10 @@ image: /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
 optimized_image: /assets/postimg/1banner_introducing_bbr_weekly_bash_2021s1.png
 subtitle: The all new Weekly Bash format...
 description: It's almost been a year since the 'Weekly Bash' series (originally
-  dubbed 'The Weekly Bash') has formed and it has been through a lot. It was
-  originally formed as a event that operated on a 5 week cycle and contained the
-  Mini League for those that qualified and since then, we had used the Weekly
-  Bash for our qualifiers for the Summer Brawl Premier, then was used a points
-  leaderboard for the Summer Brawl Finale and then was recently used for the
-  qualifiers for the Autumn Blitz Finale and was apart of the overall Autumn
-  Blitz circuit. We enjoyed the way that the Autumn Blitz operated so much, that
-  we have decided to spin-off that format and make our Weekly Bash events a
-  STANDALONE series, where it utilise that format with some tweaks to it.
+  dubbed 'The Weekly Bash') has formed and it has been through a lot. We've
+  enjoyed the way that the Autumn Blitz operated so much, that we have decided
+  to spin-off that format and make our Weekly Bash events a STANDALONE series,
+  where it utilise that format with some tweaks to it.
 category: news
 author: BBR Admin
 tags:
@@ -22,7 +17,7 @@ tags:
   - event
   - press-release
 ---
-It's almost been a year since the 'Weekly Bash' series (originally dubbed 'The Weekly Bash') has formed and it has been through a lot. It was originally formed as a event that operated on a 5 week cycle and contained the Mini League for those that qualified and since then, we had used the Weekly Bash for our qualifiers for the Summer Brawl Premier, then was used a points leaderboard for the Summer Brawl Finale and then was recently used for the qualifiers for the Autumn Blitz Finale and was apart of the overall Autumn Blitz circuit. We enjoyed the way that the Autumn Blitz operated so much, that we have decided to spin-off that format and make our Weekly Bash events a STANDALONE series, where it utilise that format with some tweaks to it.
+It's almost been a year since the 'Weekly Bash' series (originally dubbed 'The Weekly Bash') has formed and it has been through a lot. It was originally formed as a event that operated on a 5 week cycle and contained the Mini League for those that qualified and since then, we had used the Weekly Bash for our qualifiers for the Summer Brawl Premier, then was used a points leaderboard for the Summer Brawl Finale and then was recently used for the qualifiers for the Autumn Blitz Finale and was apart of the overall Autumn Blitz circuit. We have enjoyed the way that the Autumn Blitz operated so much, that we have decided to spin-off that format and make our Weekly Bash events a STANDALONE series, where it utilise that format with some tweaks to it.
 
 #### {% include youtube.html id="1BvxIqZxFxs" %}
 
