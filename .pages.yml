@@ -14,9 +14,9 @@ content:
       - { name: optimized_image, label: (Select Same Image), type: image }
       - { name: title, label: Title, type: string, required: true }
       - { name: title, label: Title, type: string, required: true }
-      - { name: categories, label: Categories, type: select, options: { values: [ "misc", "junk" ] } }
+      - { name: category, label: Categories, type: select, options: { values: [ "news" ] } }
       - { name: author, label: Authors, type: string, list: true }
-      - { name: meta, label: Meta, type: string }
+      - { name: tags, label: Tags, type: string }
       - { name: body, label: Body, type: rich-text }
   - name: config
     label: Jekyll config
