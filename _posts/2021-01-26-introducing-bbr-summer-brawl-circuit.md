@@ -1,25 +1,21 @@
 ---
-date: 2021-01-26 18:00:00
 layout: post
 title: Introducing BBR Summer Brawl Circuit
-subtitle: 'It’s time to rethink BlueBird Rivals'
-description: >-
-  It’s time to rethink BlueBird Rivals...
-
-image: >-
-    /assets/postimg/1banner_introducing_bbr_summer_brawl.png
-optimized_image: >-
-    /assets/postimg/1banner_introducing_bbr_summer_brawl.png
+date: 2021-01-26 18:00:00
+image: /assets/postimg/1banner_introducing_bbr_summer_brawl.png
+optimized_image: /assets/postimg/1banner_introducing_bbr_summer_brawl.png
+subtitle: It’s time to rethink BlueBird Rivals
+description: We have come over a long way since the start of last year, we have
+  produced lots of moments that we’re proud of and some not so much. In 2021,
+  it’s time to rethink BlueBird and help you play the game, rise to the top and
+  win starting with our new circuit system known as the Summer Brawl.
 category: news
+author: BBR Admin
 tags:
   - rocket-league
   - event
   - press-release
-author: BBR Admin
-paginate: true
 ---
-
-
 We have come over a long way since the start of last year, we have produced lots of moments that we’re proud of and some not so much. In 2021, it’s time to rethink BlueBird and help you play the game, rise to the top and win starting with our new circuit system known as the Summer Brawl.
 
 {% include youtube.html id="pWS3dpCrfHE" %}
