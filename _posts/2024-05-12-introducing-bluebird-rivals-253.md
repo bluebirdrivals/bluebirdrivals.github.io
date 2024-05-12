@@ -33,7 +33,7 @@ Format: Group Stage to Single Elimination
 *   Single Elimination with the qualified teams from the 'Group Stage'.
     
 
-Prize: 1st - $300 AUD
+Prize: 1st - $150 AUD
 
 Sign Ups are OPEN: [https://www.start.gg/BBR253](https://www.start.gg/BBR253)
 
