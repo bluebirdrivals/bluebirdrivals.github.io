@@ -7,6 +7,8 @@ description: All of BlueBird Rivals past events.
 permalink: /past-events/
 ---
 
+This page features every event we have ran since our beginings in 2017 and will be updated as our historical events get added and new events are ran...
+
 | Event Name | Game | Winner | More Info |
 | --- | --- | --- | --- |
 | 2024 | | | |
