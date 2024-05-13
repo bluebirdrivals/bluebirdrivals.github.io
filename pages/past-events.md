@@ -93,39 +93,39 @@ This page features every event we have ran since our beginings in 2017 and will 
 | BlueBird Rivals - Weekly Bash #25 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #24 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #23 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Summer Brawl - Group Satge - Part 2 | Rocket League | N/A |  [Bracket]() |
-| BlueBird Rivals - Summer Brawl - Mid Season Brawl  | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| BlueBird Rivals - Summer Brawl - Group Stage - Part 2 | Rocket League | N/A |  [Bracket](https://docs.google.com/spreadsheets/d/1-I3q280JMHQPLX19VMgTgM1jsjFI0IqfJ7Lt0m8aDnY/edit?usp=sharing) |
+| BlueBird Rivals - Summer Brawl - Mid Season Brawl  | Rocket League | NA (NA - NA - NA) |  [Bracket](https://docs.google.com/spreadsheets/d/1-I3q280JMHQPLX19VMgTgM1jsjFI0IqfJ7Lt0m8aDnY/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #22 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #21 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Summer Brawl - Group Satge - Part 1 | Rocket League | N/A |  [Bracket]() |
+| BlueBird Rivals - Summer Brawl - Group Stage - Part 1 | Rocket League | N/A |  [Bracket](https://docs.google.com/spreadsheets/d/1-I3q280JMHQPLX19VMgTgM1jsjFI0IqfJ7Lt0m8aDnY/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #20 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #19 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Open Night Cup | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | **2020** | | | |
-| BlueBird Rivals - Mini League - Season 4 - Finals | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 4 - Finals | Rocket League | Team Fenrir (Spratt - Lerky - Riv) |  [Bracket](https://docs.google.com/spreadsheets/d/1xBksAUH5NyPnRycqfy98jxa34zRB4CHYq__-GTV2qE0/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #18 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #17 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 4 - League Play | Rocket League | N/A |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 4 - League Play | Rocket League | N/A |  [Bracket](https://docs.google.com/spreadsheets/d/1xBksAUH5NyPnRycqfy98jxa34zRB4CHYq__-GTV2qE0/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #16 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #15 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 3 - Finals | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 3 - Finals | Rocket League | Max's Rancid Rats (delusioN - SSteve - Frenzyy) |  [Bracket](https://docs.google.com/spreadsheets/d/1VkXnaRn8N9mTg1InlxSuvxAidaYvRWaAlj4kLoGnQkY/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #14 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #13 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 3 - League Play | Rocket League | N/A |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 3 - League Play | Rocket League | R!OT (change - Zukoe - Le Duck) |  [Bracket](https://docs.google.com/spreadsheets/d/1VkXnaRn8N9mTg1InlxSuvxAidaYvRWaAlj4kLoGnQkY/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #12 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #11 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #10 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 2 - Finals | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 2 - Finals | Rocket League | Max's Rancid Rats (delusioN - SSteve - Frenzyy) |  [Bracket](https://docs.google.com/spreadsheets/d/1AqGHTvc71thaTkGtfO4cQIoPIf6xWzHyNs2bXWd5a_E/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #9 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #8 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 2 - League Play | Rocket League | N/A |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 2 - League Play | Rocket League | Max's Rancid Rats (delusioN - SSteve - Frenzyy) |  [Bracket](https://docs.google.com/spreadsheets/d/1AqGHTvc71thaTkGtfO4cQIoPIf6xWzHyNs2bXWd5a_E/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #7 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #6 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #5 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 1 - Finals | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 1 - Finals | Rocket League | Max's Rancid Rats (delusioN - SSteve - Frenzyy) |  [Bracket](https://docs.google.com/spreadsheets/d/1jBTwZIqUwSkh4zIzeM7G4PUhAatGAnP5Q8dlpOC2g1k/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #4 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #3 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Mini League - Season 1 - League Play | Rocket League | N/A |  [Bracket]() |
+| BlueBird Rivals - Mini League - Season 1 - League Play | Rocket League | Max's Rancid Rats (delusioN - SSteve - Frenzyy) |  [Bracket](https://docs.google.com/spreadsheets/d/1jBTwZIqUwSkh4zIzeM7G4PUhAatGAnP5Q8dlpOC2g1k/edit?usp=sharing) |
 | BlueBird Rivals - Weekly Bash #2 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #1 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Rivals Cup - Act 27 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
