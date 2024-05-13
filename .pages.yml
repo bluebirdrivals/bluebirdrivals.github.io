@@ -20,6 +20,20 @@ content:
       - { name: author, label: Author, type: string, required: true }
       - { name: tags, label: Tags, type: string, list: true, required: true }
       - { name: body, label: Body, type: rich-text, required: true }
+  - name: pages
+    label: Pages
+    type: collection
+    path: pages
+    view:
+      fields: [ cover, title ]
+    fields:
+      - { name: title, label: Page Name, type: string, required: true }
+      - { name: date, label: Post Date, type: date, required: true, options: { time: true, format: YYYY-MM-DD hh:mm:ss } }
+      - { name: menu, label: Menu (Keep at false), type: boolean, required: true, default: false }
+      - { name: layout, label: Layout (Keep at Page), type: text, required: true, default: page }
+      - { name: description, label: Description, type: text, required: true }
+      - { name: permalink, label: Permalink, type: text, required: true }
+      - { name: body, label: Body, type: rich-text, required: true }
   - name: config
     label: Jekyll config
     type: file
