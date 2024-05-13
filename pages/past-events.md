@@ -7,7 +7,7 @@ description: All of BlueBird Rivals past events.
 permalink: /past-events/
 ---
 
-This page features every event we have ran since our beginings in 2017 and will be updated as our historical events get added and new events are ran...
+This page features every event we have ran since our beginings in 2017 and will be updated as our historical events get their information filled out and new events are ran...
 
 
 | Event Name | Game | Winner | More Info |
@@ -18,41 +18,42 @@ This page features every event we have ran since our beginings in 2017 and will 
 | **2023** | | | |
 | BlueBird Rivals 252 - 3v3 Elite Match | Rocket League | PWR (Torsos - Fever - bananahead) | [Bracket](https://www.start.gg/bbr252) |
 | BlueBird Rivals 252 - 1v1 Elite Match | Rocket League | Outlast | [Bracket](https://www.start.gg/bbr252) |
-| BlueBird Rivals 252 - 3v3 Open Event | Rocket League | benchpress (Crazy - Joshuadx7 - Ohwy - Akame) | [Bracket](https://www.start.gg/bbr252) |
+| BlueBird Rivals 252 - 3v3 Open Event | Rocket League | benchpress (Crazy - Joshuadx7 - Ohwy) | [Bracket](https://www.start.gg/bbr252) |
 | BlueBird Rivals 251 | Rocket League | Lovelyyyyy (Mith - Cobbo - Fades) | [Bracket](https://www.start.gg/bbr251) |
 | BlueBird Rivals 250 | Rocket League | Tsurani (Pagsi - Finn - Fades) | [Bracket](https://www.start.gg/bbr250) |
 | BlueBird Rivals - 2023 Pop-Up Cup | Rocket League | random (mith - Negative - Baz) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2023-pop-up-cup/events) |
 | **2022** | | | |
-| BlueBird Rivals x Game On Cancer™ - Holiday Spectacular 2022 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - GRAND FINALE | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - PREMIER ROUND 3 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - RISE ROUND 3 | Rocket League | N/A |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - PREMIER ROUND 2 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - RISE ROUND 2 | Rocket League | N/A |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - PREMIER ROUND 1 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals 2022 Circuit - RISE ROUND 1 | Rocket League | N/A |  [Bracket]() |
-| BlueBird Rivals x Game On Cancer™ - Superhero Spectacular Presented by RIG Gaming | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn PREMIER Finale | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn PREMIER - Last Chance Qualifier | Rocket League |N/A |  [Bracket]() |
-| BlueBird Rivals - Autumn PREMIER - Challenger Series Qualifier #2 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn PREMIER - Challenger Series Qualifier #1 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn PREMIER - Group Stage | Rocket League |N/A |  [Bracket]() |
-| BlueBird Rivals - Autumn RISE Finale | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn RISE Qualifier #4 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn RISE Qualifier #3 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Autumn RISE Qualifier #2 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |\
-| BlueBird Rivals - Autumn RISE Qualifier #1 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Warm Up Cup | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
+| BlueBird Rivals x Game On Cancer™ - Holiday Spectacular 2022 | Rocket League | the him police (Mock - Misty - Hntr) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-x-game-on-cancer-holiday-spectacular-2022/events) |
+| BlueBird Rivals 2022 Circuit - GRAND FINALE | Rocket League | Bandits ESC (Viictus - Smash - Row) | |
+| BlueBird Rivals 2022 Circuit - PREMIER ROUND 3 | Rocket League | Bandits ESC (Viictus - Smash - Row) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2022-circuit-rl/event/premier-round-3/brackets/1187942/1837806) |
+| BlueBird Rivals 2022 Circuit - RISE ROUND 3 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2022-circuit-rl/event/rise-round-3) |
+| BlueBird Rivals 2022 Circuit - PREMIER ROUND 2 | Rocket League | Going Merry (Viictus - Smash - Row) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2022-circuit-rl/event/premier-round-2/brackets/1187940/1837804) |
+| BlueBird Rivals 2022 Circuit - RISE ROUND 2 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2022-circuit-rl/event/rise-round-2) |
+| BlueBird Rivals 2022 Circuit - PREMIER ROUND 1 | Rocket League | Going Merry (Viictus - Smash - Row) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2022-circuit-rl/event/premier-round-1/brackets/1187939/1837803) |
+| BlueBird Rivals 2022 Circuit - RISE ROUND 1 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-2022-circuit-rl/event/rise-round-1/brackets/1184724/1833166) |
+| BlueBird Rivals x Game On Cancer™ - Superhero Spectacular Presented by RIG Gaming | Rocket League | Renegades (Kamii - CJCJ - Fever) |  [Bracket](https://www.start.gg/tournament/bbr-x-game-on-cancer-superhero-spectacular-presented-by-rig-2/event/superhero-spectacular) |
+| BlueBird Rivals - Autumn PREMIER Finale | Rocket League | Three One Two's (Siki - Mock - Spratt) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-premier/event/autumn-premier-finale/brackets/1098192/1712438) |
+| BlueBird Rivals - Autumn PREMIER - Last Chance Qualifier | Rocket League |N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-premier/event/autumn-premier-last-chance-qualifier/brackets/1098190/1712432) |
+| BlueBird Rivals - Autumn PREMIER - Challenger Series Qualifier #2 | Rocket League | asdfghjkl (Sweeper - chilli - Shmoopernator) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-premier/event/premier-challengers-series-qualifier-2) |
+| BlueBird Rivals - Autumn PREMIER - Challenger Series Qualifier #1 | Rocket League | Dave Jacobs (KyRo - Airmac - tigr) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-premier/event/premier-challengers-series-qualifier-1) |
+| BlueBird Rivals - Autumn PREMIER - Group Stage | Rocket League | Three One Two's (Siki - Mock - Spratt) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-premier/event/autumn-premier-group-stage/brackets/1098186/1712421) |
+| BlueBird Rivals - Autumn RISE Finale | Rocket League | Eclipse Esports (Lunr - Lerky - Morse) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-rise/event/autumn-rise-finale/brackets/1075294/1681837) |
+| BlueBird Rivals - Autumn RISE Qualifier #4 | Rocket League | Gravel (Mith - Exile - Freeze) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-rise/event/autumn-rise-qualifier-4) |
+| BlueBird Rivals - Autumn RISE Qualifier #3 | Rocket League | duduehebebs (chilli - Sweeper - Xav) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-rise/event/autumn-rise-qualifier-3) |
+| BlueBird Rivals - Autumn RISE Qualifier #2 | Rocket League | Eclipse Esports (Lunr - Lerky - Morse) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-rise/event/autumn-rise-qualifier-2) |
+| BlueBird Rivals - Autumn RISE Qualifier #1 | Rocket League | Internet Explorers (chilli - Sweeper - Exodus) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-autumn-rise/event/autumn-rise-qualifier-1) |
+| BlueBird Rivals - Warm Up Cup | Rocket League | Badonkadank (Dootsi - Scruffy - Moss) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-warm-up-cup/event/warm-up-cup) |
 | **2021** | | | |
-| BlueBird Rivals x Game On Cancer™ - Holiday Spectacular - 3v3 Rocket League | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Frenzy Blitz #3 | Valorant | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Frenzy Blitz #2 | Valorant | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Frenzy Blitz #1 | Valorant | NA (NA - NA - NA) |  [Bracket]() |
-| BlueBird Rivals - Spring Brawl - Finale | Rocket League | Team Bliss (Cobbo - Vortex - Baked Potato) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/events) |
-| BlueBird Rivals - Spring Brawl - Wildcard Tournament | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/events) |
-| BlueBird Rivals - Spring Brawl - Wildcard Qualifier #2 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/events) |
-| BlueBird Rivals - Spring Brawl - Wildcard Qualifier #1 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/events) |
-| BlueBird Rivals - Spring Brawl - Premier Stage | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/events) |
+| BlueBird Rivals x Game On Cancer™ - Holiday Spectacular - Invite Only Event | Rocket League | Juicd Bandits (Spratt - zayd - Hawk) |  [Bracket](https://www.start.gg/tournament/bbr-x-game-on-cancer-holiday-spectacular-3v3-rocket-league/event/invite-only-event) |
+| BlueBird Rivals x Game On Cancer™ - Holiday Spectacular - Open Event | Rocket League | dak mang dao (PanzerShrek - Matro - Hntr) |  [Bracket](https://www.start.gg/tournament/bbr-x-game-on-cancer-holiday-spectacular-3v3-rocket-league/event/open-event) |
+| BlueBird Rivals - Frenzy Blitz Ep.3 - Max. LvL | Valorant | hehe (howie - mazuong2k4 - wauly - BroYouNeedJesus - ICONIC) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-frenzy-blitz-ep-3-max-lvl-1/events) |
+| BlueBird Rivals - Frenzy Blitz Ep.2 - Evolution | Valorant | freaks (sunghoon - Kyuu - pyua - Wodz - iBrocky) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-frenzy-blitz-ep-2-evolution/events) |
+| BlueBird Rivals - Frenzy Blitz Ep.1 - Beginnings | Valorant | freaks (sunghoon - Kyuu - pyua - Wodz - iBrocky) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-frenzy-blitz-ep-1-beginnings/event/frenzy-blitz-1/brackets/1004342/1584505) |
+| BlueBird Rivals - Spring Brawl - Finale | Rocket League | Team Bliss (Cobbo - Vortex - Baked Potato) |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/event/finale-stage-spring-brawl/brackets/1020469/1606826) |
+| BlueBird Rivals - Spring Brawl - Wildcard Tournament | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/event/wildcard-tournament-spring-brawl/brackets/1020495/1606853) |
+| BlueBird Rivals - Spring Brawl - Wildcard Qualifier #2 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/event/wildcard-qualifier-2-spring-brawl/brackets/1020466/1606823) |
+| BlueBird Rivals - Spring Brawl - Wildcard Qualifier #1 | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/event/wildcard-qualifier-1-spring-brawl/brackets/1020464/1606821) |
+| BlueBird Rivals - Spring Brawl - Premier Stage | Rocket League | N/A |  [Bracket](https://www.start.gg/tournament/bluebird-rivals-presents-spring-brawl/event/premier-stage-spring-brawl) |
 | BlueBird Rivals - Weekly Bash Grand Finale | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #49 - Qualifier #4 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
 | BlueBird Rivals - Weekly Bash #48 - Qualifier #3 | Rocket League | NA (NA - NA - NA) |  [Bracket]() |
